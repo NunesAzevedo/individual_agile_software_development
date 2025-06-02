@@ -1,8 +1,11 @@
 #let conf(
   // Components for the document
+  lang: "en", // Language of the document
   title: none,  // Title for the document
   authors: (),  // List whith the authors data
   abstract: [], // Abstract of the document
+  bibliography_file: "bibliography.bib", // Path to bibliography file
+  bibliography_title: [References], // Title of bibliography section
   doc,          // The doc properly
 ) = {
   // Settings for the page
@@ -23,6 +26,7 @@
   // Texts settings
   set text(
     font: "Libertinus Serif",
+    lang: lang,
     size: 11pt,
   )
 
@@ -78,4 +82,13 @@
   ]
   
   doc
+
+  // Bibliography section
+  pagebreak()
+  set page(columns: 1)
+  heading(level: 1, bibliography_title)
+  bibliography("bibliography.bib", title: none, style: "ieee")
+
 }
+
+
