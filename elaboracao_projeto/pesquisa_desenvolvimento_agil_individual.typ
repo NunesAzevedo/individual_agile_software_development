@@ -3,11 +3,11 @@
 #show: conf.with(
   lang: "pt",
   title: [
-    Pesquisa sobre métodos de desenvolvimento ágil pessoal
+    Pesquisa sobre métodos de desenvolvimento ágil individual
   ],
   authors: (
     ( 
-      name: "Paulo Nunes",
+      name: "Paulo Nunes de Azevedo",
       affiliation: "Universidade de São Paulo",
       email: "pnunesdeazevedo@usp.br",
     ),    
@@ -22,4 +22,3 @@
 #include "components/objective.typ"
 #include "components/methodology.typ"
 #include "components/timeline.typ"
-// #include "components/references.typ"
