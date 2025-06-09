@@ -3,7 +3,7 @@
 #show: conf.with(
   lang: "pt",
   title: [
-    Metodologias de desenvolvimento ágil individual
+    Metodologias de desenvolvimento de software ágil individual
   ],
   authors: (
     ( 
