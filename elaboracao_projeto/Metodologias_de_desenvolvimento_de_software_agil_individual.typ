@@ -20,5 +20,6 @@
 // Components of the doc
 #include "components/introduction.typ"
 #include "components/objective.typ"
+#include "components/related_works.typ" 
 #include "components/methodology.typ"
 #include "components/timeline.typ"
