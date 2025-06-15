@@ -36,15 +36,24 @@
     level: 1
   ): it => block(width: 100%)[
     #set align(center)
-    #set text(13pt, weight: "regular")
+    #set text(14pt, weight: "bold")
     #smallcaps(it.body)
   ]
 
   show heading.where(
     level: 2
+  ): it => block(width: 100%)[
+    #set align(left)
+    #set text(12pt, weight: "bold")
+    #smallcaps(it.body)
+  ]
+
+
+  show heading.where(
+    level: 3
   ): it => text(
-    size: 11pt,
-    weight: "regular",
+    size: 12pt,
+    weight: "bold",
     style: "italic",
     it.body + [.],
   )
