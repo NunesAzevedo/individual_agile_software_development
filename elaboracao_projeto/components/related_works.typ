@@ -34,6 +34,16 @@ Como uma metodologia mais focada na gestão de tarefas de uma equipe, ele serve 
 
 O XP tem o foco em produzir softwares com maior qualidade , maior capacidade de resposta e de mudança nos requisitos do cliente, além de ter maior facilidade de realizar futuras manutenções quando necessárias. Essa metodologia valoriza alguns pilares, como: Comunicação, simplicidade, feedback, coragem e respeito.
 
+O XP também conta com algumas práticas centrais como o TDD (Test-Driven Development), que consiste em escrever um teste automatizado antes de escrever o código em si, e ir elaborando o código até ter a versão mínima que passe nesse teste, e após isso, é elaborado um novo teste com mais algumas funções e o código passa por refatoramentos até que passe no novo teste. Esse ciclo é chamado de "Red, Green, Refactor" @TDD_Red_Green_Refactor:
+
+- Red: Pensar sobre o que o quer ser desenvolvido, e daí elaborar testes do que deve ser feito.
+
+- Green: Pensar em como passar nos testes feitos. Elaborar o código mínimo que passe nos testes.
+
+- Refactor: Pensar em como melhorar a implementação existente, muitas vezes refatorando o código para permitir uma nova implementação.
+
+Como prós do TDD temos uma alta cobertura de testes e confiança na alterações do código, tendo os testes como espécia de documentação sobre cada alteração feita durante o projeto e como desvantágem temos a sua curva de aprendizagem, que pode tornar a sua proeficiência difícil de ser dominada.
+
 === XP para o desenvolvedor solo
 Ao usar o XP para o desenvolvimento solo podemos fazer as seguintes adaptações de seus pilares:
 
