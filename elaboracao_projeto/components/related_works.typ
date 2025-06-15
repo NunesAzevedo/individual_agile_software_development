@@ -30,9 +30,15 @@ Seu foco é de organizar o fluxo de trabalho de forma visual, seja com quadro de
 === Personal Kanban
 Como uma metodologia mais focada na gestão de tarefas de uma equipe, ele serve de maneira praticamente direta para o desenvolvedor solo, usando de suas ideias para a autogestão do projeto.
 
-== Extreme Programming (XP)
+== Scrumban @Scrumban:Uniao_scrum_e_kanban
+O Scrumban é a junção do Scrum e do Kanban como uma metodologia própria. Ele trabalha com organização visual do fluxo de trabalho e com o WIP, e não é tão rigoroso quanto as sprints do scrum clássico.
 
-O XP tem o foco em produzir softwares com maior qualidade , maior capacidade de resposta e de mudança nos requisitos do cliente, além de ter maior facilidade de realizar futuras manutenções quando necessárias. Essa metodologia valoriza alguns pilares, como: Comunicação, simplicidade, feedback, coragem e respeito.
+É uma das metodologias mais usadas também, na indústria da engenharia de software por unir vantagens de outras duas metodologias clássicas, e podendo oscilar entre, por exemplo, usar um pouco mais o scrum puro, sendo mais rógido quanto às entregas e às revisões, ou menos protocolar e focar em finalizar uma tarefa em andamento por vez mais do que realizar as dailys solo por questões protocolares por si só.
+
+== Extreme Programming (XP)
+O XP tem o foco em produzir softwares com maior qualidade técnica, maior capacidade de resposta e de mudança nos requisitos do cliente, além de ter maior facilidade de realizar futuras manutenções quando necessárias. Essa metodologia, embora não seja a escolhida para esse estudo de caso, pode ter traços que possamos utilizar futuramnente.
+
+Ela valoriza alguns pilares, como: Comunicação, simplicidade, feedback, coragem e respeito.
 
 O XP também conta com algumas práticas centrais como o TDD (Test-Driven Development), que consiste em escrever um teste automatizado antes de escrever o código em si, e ir elaborando o código até ter a versão mínima que passe nesse teste, e após isso, é elaborado um novo teste com mais algumas funções e o código passa por refatoramentos até que passe no novo teste. Esse ciclo é chamado de "Red, Green, Refactor" @TDD_Red_Green_Refactor:
 

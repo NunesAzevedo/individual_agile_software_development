@@ -1,3 +1,3 @@
-O estudo dos métodos de desenvilvimento ágil para engenharia de software são métodos criados para maximizar a entrega da solução para um determinado problema, no mínimo tempo possível.
-\
-No entanto, é notório que para os casos em que o desenvolvimento ocorre por um único desenvolvedor, eles demandam um certo grau de adaptação, e a pesquisa a seguir tem como foco estudar a aplicação de alguns deles utilizando casos reais de desenvolviemento de software de maneira individual.
+O estudo dos métodos de desenvilvimento ágil para engenharia de software são métodos criados para maximizar a entrega da solução para um determinado problema, no mínimo tempo possível.\
+No entanto, é notório que para os casos em que o desenvolvimento ocorre por um único desenvolvedor, eles demandam um certo grau de adaptação, e a pesquisa a seguir tem como foco estudar a aplicação de alguns deles utilizando casos reais de desenvolviemento de software de maneira individual.\
+O Scrumban é uma metodologia que equilibra entregas com organização de fluxo de trabalho, com objetivo de ter bons resultados de forma mais sustentável.

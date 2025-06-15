@@ -27,7 +27,7 @@
   set text(
     font: "Libertinus Serif",
     lang: lang,
-    size: 11pt,
+    size: 12pt,
   )
 
 
@@ -36,7 +36,7 @@
     level: 1
   ): it => block(width: 100%)[
     #set align(center)
-    #set text(14pt, weight: "bold")
+    #set text(16pt, weight: "bold")
     #smallcaps(it.body)
   ]
 
@@ -44,7 +44,7 @@
     level: 2
   ): it => block(width: 100%)[
     #set align(left)
-    #set text(12pt, weight: "bold")
+    #set text(14pt, weight: "bold")
     #smallcaps(it.body)
   ]
 
@@ -52,7 +52,7 @@
   show heading.where(
     level: 3
   ): it => text(
-    size: 12pt,
+    size: 13pt,
     weight: "bold",
     style: "italic",
     it.body + [.],
