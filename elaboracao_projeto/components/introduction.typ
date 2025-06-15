@@ -2,7 +2,7 @@
 
 Na engenharia de software é muito comum de existirem uma série de problemas, desde falhas de arquitetura, código legado sem documentação devida e que dificulta demais projetos em uma empresa, dívida técnica em projetos passados, dificuldades com entregas de software funcional, dentre vários outros.
 
-Como forma de lidar com tantos problemas, e continuar a desenvolver softwares que cumpram com o seu objetivo e sejam fáceis de se fazer manutenção, surgiu em 2001, um grupo de dezessete desenvolvedores que formaram a chamada _The Agile Alliance_, compuseram o _The Agile Manifesto_, no qual foi estabelecido alguns dos valores fundamentais, que, desde então, orientam a filosofia ágil @agileManifesto.
+Como forma de lidar com tantos problemas, e continuar a desenvolver softwares que cumpram com o seu objetivo e sejam fáceis de se fazer manutenção, surgiu em 2001, um grupo de dezessete desenvolvedores que formaram a chamada _The Agile Alliance_, que compuseram o _The Agile Manifesto_, no qual foi estabelecido alguns dos valores fundamentais, que, desde então, orientam a filosofia ágil @agileManifesto.
 
 Diante de tantos cenários que variam desde as tecnologias utilizadas, os tipos de clientes da empresa e até mesmo a cultura de onde os desenvolvedores estão inseridos como membros da sociedade, foram desenvolvidos diversos tipos de metodologias ágeis para melhorar o gerenciamento e a produtividade das equipes, que podem ser seguidas tanto de maneira purista, como de forma a aproveitar o melhor de cada uma para determinado cenário. Elas costumam fazer separações de tarefas por membros da equipe e separações de momentos de foco em determinadas atividades, afim de diminuir problemas relacionados às produtividade, como por exemplo, deixar um desesnvolvedor responsável ao mesmo tempo com muitas tarefas ao invés de o permitir focar em somente uma por vez, como reduzir problemas mais técnicos, como o incentivo a documentação e a refatoração, afim de diminuir a dívida técnica e facilitar futuras manutenções, como sugerem metodologias como o XP (Extreme Programming).
 
@@ -10,5 +10,9 @@ Esses problemas, que já são um verdadeiro desafio em projetos com diversas equ
 
 Tal situação se encontra como algo comum, quando pensamos em, por exemplo, o surgimento de uma startup, em que temos, inicialmente, poucos sócios e funcionários, e pode ser necessário designar um único desenvolvedor para alguns projetos, ou ainda mesmo o caso de surgimento de projetos open source, em que muitas das vezes, antes do projeto ganhar relevância, o idealizador precisa desenvolver ele sozinho.
 
-Na história podemos citar alguns softwares de suma importância para o mundo como conhecemos hoje, como o Git, o principal software de versionamento de projetos, desenvolvido inicialmente por Linus Torvalds @gitHistory @gitSource, e também a primeira versão do JavaScript, o Moca, desenvolvido por Brendan Eich @javaScriptCreation, 
+Na história podemos citar alguns softwares de suma importância para o mundo como conhecemos hoje, como o Git, o principal software de versionamento de projetos, desenvolvido inicialmente por Linus Torvalds @gitHistory @gitSource, e também a primeira versão do JavaScript, o Mocha, desenvolvido por Brendan Eich @javaScriptCreation, e que hoje em dia é uma das linguagens de programação mais utilizadas no mundo e a que está presente em praticamente quase todas as aplicações web no planeta.
+
+Nesse cenário, temos que, para o desenvolvedor individual, há 
+
+
 
